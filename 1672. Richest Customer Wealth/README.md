@@ -30,7 +30,10 @@ Output: 17<br>
 
 Constraints:
 
-m == accounts.length
-n == accounts[i].length
-1 <= m, n <= 50
-1 <= accounts[i][j] <= 100
+m == accounts.length<br>
+n == accounts[i].length<br>
+1 <= m, n <= 50<br>
+1 <= accounts[i][j] <= 100<br>
+
+![image](https://github.com/EminJoy18/LeetCode_problems/assets/97777160/5b9c38a8-d94d-4cc4-a9bb-4b92477c2f0f)
+
